@@ -26,7 +26,8 @@ function TIC()
             )
     end
 
-    -- calculate the next state for each pixel
+    -- calculate the next state for every
+    -- second pixel column (for better performance)
     for y=0,135 do
         for x=0,239,2 do
             a=math.atan2(68-y,120-x)
@@ -43,7 +44,7 @@ function TIC()
         end
     end
 
-    -- draw the pixels
+    -- draw the pixels as circles with radius 1
     for i=1,#p do
         circb(p[i].x,p[i].y,1,p[i].c)
     end
