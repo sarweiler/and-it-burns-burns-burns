@@ -12,7 +12,12 @@
 * Drag'n'drop `and_it_burns_burns_burns.packed.tic` into the TIC-80 window (or `src/and_it_burns_burns_burns.src.tic`, if you want to look at the source code in TIC-80)
 * In the TIC-80 window type `run` and hit return
 
+## Source
+
+* If you want to play with the source code, drag'n'drop `src/and_it_burns_burns_burns.src.tic` into the TIC-80 window, or, if you just want to look at the source code, [the pure Lua code](src/and_it_burns_burns_burns.lua) is in the `src` directory.
+
 ## Links
+
 * [Video capture on YouTube](https://www.youtube.com/watch?v=N8G86tTRNjU)
 * [Demozoo](https://demozoo.org/productions/317943/)
 * [pouet.net](https://www.pouet.net/prod.php?which=93355)
