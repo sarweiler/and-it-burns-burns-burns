@@ -9,7 +9,7 @@
 ## Running it
 
 * Start TIC-80
-* Drag'n'drop `and_it_burns_burns_burns.packed.tic` into the TIC-80 window (or `src/and_it_burns_burns_burns.src.tic`, if you want to look at the source code in TIC-80)
+* Drag'n'drop `and_it_burns_burns_burns.packed.tic` into the TIC-80 window
 * In the TIC-80 window type `run` and hit return
 
 ## Source
