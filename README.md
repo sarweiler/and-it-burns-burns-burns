@@ -14,7 +14,7 @@
 
 ## Source
 
-* If you want to play with the source code, drag'n'drop `src/and_it_burns_burns_burns.src.tic` into the TIC-80 window, or, if you just want to look at the source code, [the pure Lua code](src/and_it_burns_burns_burns.lua) is in the `src` directory.
+* If you want to play with the source code, drag'n'drop `src/and_it_burns_burns_burns.src.tic` into the TIC-80 window, or, if you just want to look at the source code, [the pure Lua code with comments](src/and_it_burns_burns_burns.lua) is in the `src` directory.
 
 ## Links
 
