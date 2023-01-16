@@ -2,7 +2,7 @@
 
 ![And It Burns Burns Burns](screenshot.gif)
 
-A 256 byte intro for [TIC-80](https://tic80.com).
+256 byte intro for [TIC-80](https://tic80.com).
 
 8th place in the New Talent Compo at [Get Ready for Lovebyte 2023](https://demozoo.org/parties/4596/#competition_17612).
 
